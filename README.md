@@ -41,8 +41,8 @@ https://github.com/alecxe/scrapy-fake-useragent
 * * *
 
 ## 此项目涉及的点（方便以后参考）
-custompolicy.py: http_cache policy 加入‘refresh-cache’ 在 mata 里
-logger.py: loggerformater 不让scrapy老打印或者log 成功的item
-用切割价格和面积 以获得更多链家信息
-自定义 middleware 使用 代理云 ip 
-使用 fake user agent
+custompolicy.py: http_cache policy 加入‘refresh-cache’ 在 mata 里  
+logger.py: loggerformater 不让scrapy老打印或者log 成功的item  
+用切割价格和面积 以获得更多链家信息  
+自定义 middleware 使用 代理云 ip   
+使用 fake user agent  
