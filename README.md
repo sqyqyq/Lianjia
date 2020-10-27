@@ -27,7 +27,8 @@ https://github.com/alecxe/scrapy-fake-useragent
 建议先使用 i = 2，也就是先采北京，如果北京没问题那其他也应该没问题
 
 2. 修改middlewares 文件中的 api （我这里使用的是代理云api）
- ![cf24aa7b01cb2fc4d96ae3afebe0b1cd.png](https://github.com/sqyqyq/Lianjia/blob/master/img/api.png)
+
+![cf24aa7b01cb2fc4d96ae3afebe0b1cd.png](https://github.com/sqyqyq/Lianjia/blob/master/img/api.png)
  
 3. 在terminal 中使用以下代码运行
  `scrapy crawl chengjiao_aria.py`
