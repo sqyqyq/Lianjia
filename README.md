@@ -6,9 +6,6 @@
 1. python: [下载anaconda并安装](https://docs.anaconda.com/anaconda/install/windows/)
 2. pycharm：下载pycharm 安装就好
 
-3. 下载本项目
-用pycharm 打开项目（可以直接在包含这个项目的文件夹
-
 ***可能需要的环境文件***
 scrapy 和依赖安装： 打开anaconda powershell 输入
 ```
