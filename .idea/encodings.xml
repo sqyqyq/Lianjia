@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Lianjia/spiders/chengjiao.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lianjia/spiders/chengjiao_aria.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lianjia/spiders/chengjiao_both.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Lianjia/spiders/chengjiao_price.py" charset="GBK" />
+  </component>
+</project>
