@@ -22,12 +22,12 @@ https://github.com/alecxe/scrapy-fake-useragent
 
 ## 使用
 1.首先注意改chengjiao_aria.py 的第31行，其中的 i 代表城市列表中的第几行
-![0060133c224286bdb0d9a928cf47bd10.png](:/7b9e8cea6061483ba2b864321cc4baf2)
+![0060133c224286bdb0d9a928cf47bd10.png](https://github.com/sqyqyq/Lianjia/blob/master/img/city_list.png)
 
 建议先使用 i = 2，也就是先采北京，如果北京没问题那其他也应该没问题
 
 2. 修改middlewares 文件中的 api （我这里使用的是代理云api）
- ![cf24aa7b01cb2fc4d96ae3afebe0b1cd.png](:/b83b52e0c5a0444e84b29013c64c8278)
+ ![cf24aa7b01cb2fc4d96ae3afebe0b1cd.png](https://github.com/sqyqyq/Lianjia/blob/master/img/api.png)
  
 3. 在terminal 中使用以下代码运行
  `scrapy crawl chengjiao_aria.py`
